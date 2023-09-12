@@ -4,8 +4,8 @@
 
 ## Written code
 
-![image](https://github.com/Madaniarias/Year-2/assets/111761417/a24a52d5-609c-4c3a-9712-1728d8a08bf3)
-![image](https://github.com/Madaniarias/Year-2/assets/111761417/4d72d2c9-95da-49bb-a507-53f303cac8fb)
+![image](https://github.com/Madaniarias/Year-2/assets/111761417/7295f4d7-25c9-41db-8f3c-48a49ab4d8c9)
+![image](https://github.com/Madaniarias/Year-2/assets/111761417/ece249c4-2098-4610-be6b-43204c332239)
 
 ## Code
 
