@@ -22,7 +22,7 @@ def parity_check(data):
     else:
         return False  # Parity check failed
 
-# Example usage:
+#Test cases
 test1 = "100111001011001110010110011100101"
 test2 = "011101111101110111110111001111"
 
