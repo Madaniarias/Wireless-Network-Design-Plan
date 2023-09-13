@@ -4,6 +4,8 @@
 
 ## Written code
 
+![image](https://github.com/Madaniarias/Year-2/assets/111761417/ca89e663-c125-4307-bb98-e66e00775067)
+
 ## Code
 
 ```.py
