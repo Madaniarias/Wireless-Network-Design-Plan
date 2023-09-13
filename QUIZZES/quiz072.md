@@ -12,26 +12,32 @@
 
 import random
 
+# convert a digit (0-15) to a hexadecimal character
 def hex_num(digit: int):
     return '0123456789abcdef'[digit]
 
+# generate a random hexadecimal digit for a MAC address
 def get_mac_number():
     return hex_num(random.randint(0, 15))
 
+# Fgenerate a group of two hexadecimal digits for a MAC address
 def get_group_mac_numbers():
     numbers = [get_mac_number() for _ in range(2)]
     return ''.join(numbers)
 
+# generate a complete MAC address of 6 groups of 2 digits
 def get_mac_address():
     address = [get_group_mac_numbers() for _ in range(6)]
     return ':'.join(address)
 
+# generate a list of random MAC addresses
 def macgenerator(N: int):
     out = []
     for _ in range(N):
         out.append(get_mac_address())
     return out
 
+# Test
 print(macgenerator(N=10))
 
 ```
