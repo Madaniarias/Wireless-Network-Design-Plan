@@ -4,7 +4,7 @@
 
 # Written code
 
-![image](https://github.com/Madaniarias/Year-2/assets/111761417/63e72b3f-393e-4b6b-a766-26a5054e5944)
+![image](https://github.com/Madaniarias/Year-2/assets/111761417/13637f31-8f2e-40c3-ae4b-b14a892078d3)
 
 # Code
 
