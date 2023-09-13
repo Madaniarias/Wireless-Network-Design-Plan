@@ -12,7 +12,7 @@
 #create IPv4machine class
 class IPv4machine:
     def generate_addresses(self):
-        return (f"{a}.{b}.{c}.{d}" for a in range(256) for b in range(256) for c in range(256) for d in range(256))
+        return (f"{a}.{b}.{c}.{d}" for a in range(0,256) for b in range(0,256) for c in range(0,256) for d in range(0,256))
 
 # Instance of the IPv4Generator class
 ip_generator = IPv4machine()
