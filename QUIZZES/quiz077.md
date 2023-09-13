@@ -4,6 +4,7 @@
 
 ## Written code
 
+![image](https://github.com/Madaniarias/Year-2/assets/111761417/c6502dc3-a9b0-4bb5-8255-dde215c9313c)
 
 ## Code
 
