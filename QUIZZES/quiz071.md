@@ -11,21 +11,23 @@
 ```.py
 import random
 
+#create class
 class IPv6machine:
     def __init__(self, N):
         self.N = N
 
+    # Generate a random IPv6
     def generate_ipv6_address(self):
-        # Generate a random IPv6
         ipv6_parts = ["".join(random.choices("0123456789abcdef", k=4)) for _ in range(8)]
         ipv6_address = ":".join(ipv6_parts)
         return ipv6_address
 
+    # Generate N random IPv6 addresses
     def generate_ipv6_addresses(self):
-        # Generate N random IPv6 addresses
         ipv6_addresses = [self.generate_ipv6_address() for _ in range(self.N)]
         return ipv6_addresses
 
+#Test
 ipv6_machine = IPv6machine(N=10)
 random_ipv6_addresses = ipv6_machine.generate_ipv6_addresses()
 print(random_ipv6_addresses)
