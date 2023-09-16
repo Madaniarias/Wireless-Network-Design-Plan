@@ -13,7 +13,7 @@
 # Create ErrorDetection class
 class ErrorDetection:
     def __init__(self):
-        self.error = False  # Initialize error flag
+        self.error = False  # Initialize error 
         self.error_list = []  # Initialize list to store error positions
 
     # Check for errors in the data
