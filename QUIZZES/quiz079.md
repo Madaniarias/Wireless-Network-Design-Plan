@@ -47,3 +47,4 @@ print(resu
 ```
 
 ## Test
+<img width="1289" alt="Screenshot 2023-10-30 at 10 19 05 AM" src="https://github.com/Madaniarias/Year-2/assets/111761417/496e1aec-3fe7-4efa-bc41-97d228c7eadb">
